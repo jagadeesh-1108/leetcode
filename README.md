@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jagadeesh-1108/leetcode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/jagadeesh-1108/leetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jagadeesh-1108/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jagadeesh-1108/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jagadeesh-1108/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/jagadeesh-1108/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/jagadeesh-1108/leetcode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jagadeesh-1108/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagadeesh-1108/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/jagadeesh-1108/leetcode/tree/master/0704-binary-search) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/jagadeesh-1108/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
