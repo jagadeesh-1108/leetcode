@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/jagadeesh-1108/leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagadeesh-1108/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/jagadeesh-1108/leetcode/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/jagadeesh-1108/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jagadeesh-1108/leetcode/tree/master/0412-fizz-buzz) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/jagadeesh-1108/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
