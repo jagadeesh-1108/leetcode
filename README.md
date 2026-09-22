@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jagadeesh-1108/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/jagadeesh-1108/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jagadeesh-1108/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jagadeesh-1108/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jagadeesh-1108/leetcode/tree/master/0035-search-insert-position) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jagadeesh-1108/leetcode/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/jagadeesh-1108/leetcode/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/jagadeesh-1108/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jagadeesh-1108/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
