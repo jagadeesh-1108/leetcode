@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jagadeesh-1108/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/jagadeesh-1108/leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/jagadeesh-1108/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jagadeesh-1108/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/jagadeesh-1108/leetcode/tree/master/0412-fizz-buzz) |
 ## Stack
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jagadeesh-1108/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/jagadeesh-1108/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jagadeesh-1108/leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/jagadeesh-1108/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
