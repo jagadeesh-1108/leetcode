@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/jagadeesh-1108/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jagadeesh-1108/leetcode/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/jagadeesh-1108/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/jagadeesh-1108/leetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jagadeesh-1108/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/jagadeesh-1108/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagadeesh-1108/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/jagadeesh-1108/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
